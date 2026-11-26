@@ -23,7 +23,7 @@ Logika kucing: gelas itu menduduki sunbeam yang sudah diklaim, cakar hanyalah ne
 ## Repo
 
 - https://github.com/rismzz/u-po-pu-five-seconds-to-explain-the-glass-934d9949
-- Commit SHA final: d9bf61b (lihat bawah — diperbarui setelah commit STATUS.md)
+- Commit SHA final: 5d4ecf2f12e398599f2a4d04c2a82039ee2e5490 (commit STATUS.md; HEAD final setelah commit ini tercatat di laporan worker)
 - About: homepage https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949, topic `makefun` — terverifikasi via `gh repo view`.
 - File: main.py, README.md (3 badge live + footer referral ?ref=aa4mcy45), LICENSE (MIT), .makefun/owner.json (wallet GpjYmQrta6MUx3Xbg3WiBRnXzfUpcPWJV4SnXWGQuzux).
 
